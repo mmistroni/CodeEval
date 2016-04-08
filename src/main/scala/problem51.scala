@@ -1,0 +1,5 @@
+
+
+object problem51 {
+  
+}

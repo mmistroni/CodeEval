@@ -1,0 +1,5 @@
+
+
+object Scala99Problems {
+  
+}
